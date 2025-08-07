@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**zacheldy/zacheldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm Zach, an information systems student at Universitas Multimedia Nusantara, specializing in big data. I’m passionate about data analysis and business intelligence, and I love transforming data into insights that matter.
 
-Here are some ideas to get you started:
+### About Me
+I'm currently working on projects involving Power BI, BigQuery, and data visualization tools. My interests include SQL, dashboard development, and data-driven storytelling. I'm also learning more about machine learning to broaden my understanding of predictive analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to collaborating on analytics or data visualization projects. Feel free to connect if you’re working on something interesting or just want to talk about data!
+
+### How to reach me
+- LinkedIn: [your LinkedIn username]  
+- Instagram: [@yourinstagramhandle]  
+- Email: [your@email.com]
+
+Thanks for visiting!
