@@ -8,8 +8,7 @@ I'm currently working on projects involving Power BI, BigQuery, and data visuali
 I'm always open to collaborating on analytics or data visualization projects. Feel free to connect if you’re working on something interesting or just want to talk about data!
 
 ### How to reach me
-- LinkedIn: [your LinkedIn username]  
-- Instagram: [@yourinstagramhandle]  
-- Email: [your@email.com]
+- LinkedIn: https://www.linkedin.com/in/zachariah-eldy/   
+- Email: zaekeldy@gmail.com
 
 Thanks for visiting!
