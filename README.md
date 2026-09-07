@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm Zach, an information systems student at Universitas Multimedia Nusantara, specializing in big data. I’m passionate about data analysis and business intelligence, and I love transforming data into insights that matter.
+Welcome to my GitHub! I'm Zach, an information systems freshgraduate at Universitas Multimedia Nusantara, specializing in big data. I’m passionate about data analysis and business intelligence, and I love transforming data into insights that matter.
 
 ### About Me
 I'm currently working on projects involving Power BI, BigQuery, and data visualization tools. My interests include SQL, dashboard development, and data-driven storytelling. I'm also learning more about machine learning to broaden my understanding of predictive analytics.
